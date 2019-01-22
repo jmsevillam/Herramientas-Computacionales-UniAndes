@@ -4,6 +4,7 @@ To open the `Binder` we use on class, click the following link
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ComputoCienciasUniandes/FISI2026-201910/master?urlpath=lab)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jmsevillam/Herramientas-Computacionales-UniAndes/master)
 
 This repository has all the work done during the Herramientas Computacionales course.
 
