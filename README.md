@@ -9,7 +9,7 @@ This repository has all the work done during the Herramientas Computacionales co
 
 Here you can find, presentations codes and additional material for the course.
 ## Syllabus
-[Sylabus.pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/programa.pdf)
+[Syllabus.pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/programa.pdf)
 ## Slides
 - [Introduction and Syllabus](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/Intro.pdf)
 - [Bash Introduction](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/1%20Bash%20Slides.pdf)
