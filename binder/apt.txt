@@ -1,3 +1,5 @@
+top
+htop
 tree
 vim
 nano
