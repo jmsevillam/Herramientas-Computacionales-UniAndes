@@ -11,8 +11,8 @@ Here you can find presentations, codes and additional material for the course.
 ## Syllabus
 [Syllabus.pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Syllabus.pdf)
 ## Slides
-- [Introduction and Syllabus](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/Intro.pdf)
-- [Bash Introduction](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/1%20Bash%20Slides.pdf), [html version](https://jmsevillam.github.io/slides/Bash.slides.html)
+- Introduction and Syllabus: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/Intro.pdf)
+- Bash Introduction: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/1%20Bash%20Slides.pdf), [html](https://jmsevillam.github.io/slides/Bash.slides.html)
 
 ## Some links of interest
 The videos can be found on this [Link](https://www.youtube.com/playlist?list=PLHQtzvthdVM_MGC9dPFKe4hPAwBd_7RJ3)
