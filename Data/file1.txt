@@ -1,0 +1,11 @@
+THIS LINE IS AN UPPER CASE LINE IN THIS FILE.
+ESTA ES UNA LÍNEA EN MAYÚSCULAS.
+
+this line is the a lower case line in this file.
+esta es una línea en minúsculas.
+
+This Line Has All Its First Character Of The Word With Upper Case.
+Esta Línea Tiene La Primera Letra De Cada Palabra En Mayúsulas.
+
+And this is the last line.
+Esta es la última línea.
