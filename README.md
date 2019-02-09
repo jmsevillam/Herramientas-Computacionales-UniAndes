@@ -17,7 +17,7 @@ Here you can find presentations, codes and additional material for the course.
 - Bash (Text Editors, Process and Redirection): [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/2%20Bash_2%20slides.pdf), [html](https://jmsevillam.github.io/slides/Bash_2.slides.html#/)
 - Bash (`grep`, `akw`): [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/3%20Bash_3%20slides.pdf), [html](https://jmsevillam.github.io/slides/Bash_3.slides.html#/)
 ### Python
-- Introduction: pdf, html
+- Introduction: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/4%20Python%20Basics%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python%20Intro.slides.html#/)
 - Strings and lists: pdf, html
 - Functions and Variables: pdf, html
 - pip and jupyter notebooks: pdf, html
