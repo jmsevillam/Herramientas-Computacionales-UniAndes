@@ -1,0 +1,10 @@
+cd: for change directory (folder) on the terminal
+ls: to list the files and folders inside a particular directory
+mv: to move files (Also can be used to rename)
+pwd: print working directory, shows in which directory is the shell
+mkdir: make directory, creates a folder
+rm: remove a file or folder (-r)
+htop: shows the amount of resources are been used.
+more: a text visualizer
+less: a text visualizer
+shell: A way to acces to the services and programs of a computer.
