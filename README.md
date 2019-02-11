@@ -16,7 +16,7 @@ Here you can find presentations, codes and additional material for the course.
 - Bash Introduction: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/1%20Bash%20Slides.pdf), [html](https://jmsevillam.github.io/slides/Bash.slides.html)
 - Bash (Text Editors, Process and Redirection): [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/2%20Bash_2%20slides.pdf), [html](https://jmsevillam.github.io/slides/Bash_2.slides.html#/)
 - Bash (`grep`, `akw`): [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/3%20Bash_3%20slides.pdf), [html](https://jmsevillam.github.io/slides/Bash_3.slides.html#/)
-  - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw1/Hw1.pdf)
+  - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw1/Hw1.pdf), [sol](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/tree/master/Homework/Hw1/Solution)
 ### Python
 - Introduction: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/4%20Python%20Basics%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python%20Intro.slides.html#/)
   - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw2/hw2.pdf)
