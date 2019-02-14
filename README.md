@@ -20,12 +20,12 @@ Here you can find presentations, codes and additional material for the course.
 ### Python
 - Introduction: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/4%20Python%20Basics%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python%20Intro.slides.html#/)
   - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw2/hw2.pdf), [sol](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/tree/master/Homework/Hw2/Solution)
-- Strings and lists: pdf, html
-  - Homework
+- Strings and lists: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/5%20Python_lists%20slides.pdf), [html](file:///Users/jmsevillam/Dropbox/Personal/pages/jmsevillam.github.io/slides/Python_lists.slides.html#/)
+  - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw3/Hw3.pdf), sol
 - Functions and Variables: pdf, html
-  - Homework
+  - Homework pdf, sol
 - pip and jupyter notebooks: pdf, html
-  - Homework
+  - Homework pdf, sol
 ## Some links of interest
 The videos can be found on this [Link](https://www.youtube.com/playlist?list=PLHQtzvthdVM_MGC9dPFKe4hPAwBd_7RJ3)
 
