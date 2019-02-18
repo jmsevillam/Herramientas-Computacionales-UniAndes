@@ -22,8 +22,8 @@ Here you can find presentations, codes and additional material for the course.
   - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw2/hw2.pdf), [sol](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/tree/master/Homework/Hw2/Solution)
 - Strings and lists: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/5%20Python_lists%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_lists.slides.html#/)
   - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw3/Hw3.pdf), sol
-- Functions and Variables: pdf, html
-  - Homework pdf, sol
+- Functions and Recursivity: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/6%20Python_functions%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_functions.slides.html)
+  - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw4/Hw4.pdf), sol
 - pip and jupyter notebooks: pdf, html
   - Homework pdf, sol
 ## Some links of interest
