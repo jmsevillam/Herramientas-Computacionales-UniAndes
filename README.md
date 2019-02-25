@@ -24,6 +24,8 @@ Here you can find presentations, codes and additional material for the course.
   - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw3/Hw3.pdf), sol
 - Functions and Recursivity: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/6%20Python_functions%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_functions.slides.html)
   - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw4/Hw4.pdf), sol
+- Object Oriented Programming: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/7%20Python_Classes%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Classes.slides.html)
+  - Homework pdf, sol
 - pip and jupyter notebooks: pdf, html
   - Homework pdf, sol
 ## Some links of interest
