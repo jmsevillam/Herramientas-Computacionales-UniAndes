@@ -18,6 +18,7 @@ Here you can find presentations, codes and additional material for the course.
 - Bash (`grep`, `akw`): [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/3%20Bash_3%20slides.pdf), [html](https://jmsevillam.github.io/slides/Bash_3.slides.html#/)
   - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw1/Hw1.pdf), [sol](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/tree/master/Homework/Hw1/Solution)
 ### Python
+#### Basic
 - Introduction: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/4%20Python%20Basics%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python%20Intro.slides.html#/)
   - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw2/hw2.pdf), [sol](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/tree/master/Homework/Hw2/Solution)
 - Strings and lists: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/5%20Python_lists%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_lists.slides.html#/)
@@ -28,11 +29,33 @@ Here you can find presentations, codes and additional material for the course.
   - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw5/Hw5.pdf), sol
 - `pip` and jupyter notebooks and modules: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/8%20Python_Modules%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Modules.slides.html#/)
   - Homework pdf, sol
+#### Intermediate
+- `NumPy` Introduction: pdf, html
+  - Homework pdf, sol
+- `Matplotlib` Introduction: pdf, html
+  - Homework pdf, sol
+- Numerical Analysis: pdf, html
+  - Homework pdf, sol
+- `SciPy` Introduction: pdf, html
+  - Homework pdf, sol
+- Statistical Tools: pdf, html
+  - Homework pdf, sol
+- Monte Carlo Methods: pdf, html
+  - Homework pdf, sol
+- Physical System Simulations: pdf, html
+
 ## Some links of interest
 The videos can be found on this [Link](https://www.youtube.com/playlist?list=PLHQtzvthdVM_MGC9dPFKe4hPAwBd_7RJ3)
 
 The repository for all the groups of the course can be found [Link](https://github.com/ComputoCienciasUniandes/FISI2026-201910)
 
+### Documentation
+- [`Python`](https://docs.python.org/3/)
+- [`NumPy`](http://www.numpy.org/)
+- [`Matplotlib`](https://www.matplotlib.org/)
+- [`SciPy`](https://www.scipy.org/)
+- [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/)
+  - Markdown: [link1](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), [link2](https://www.markdownguide.org/basic-syntax/)
 ## For further Information
 
 contact: ` j.sevillam@uniandes.edu.co `
