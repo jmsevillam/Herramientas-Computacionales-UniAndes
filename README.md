@@ -28,7 +28,7 @@ Here you can find presentations, codes and additional material for the course.
 - Object Oriented Programming: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/7%20Python_Classes%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Classes.slides.html) - Examples [folder](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/tree/master/examples/Classes)
   - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw5/Hw5.pdf), sol
 - `pip` and jupyter notebooks and modules: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/8%20Python_Modules%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Modules.slides.html#/)
-  - Homework pdf, sol
+  - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw6/Hw6.pdf), sol
 #### Intermediate
 - `NumPy` Introduction: pdf, html
   - Homework pdf, sol
