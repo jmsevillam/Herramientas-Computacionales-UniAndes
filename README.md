@@ -28,20 +28,20 @@ Here you can find presentations, codes and additional material for the course.
 - Object Oriented Programming: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/7%20Python_Classes%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Classes.slides.html) - Examples [folder](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/tree/master/examples/Classes)
   - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw5/Hw5.pdf), [sol](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/tree/master/Homework/Hw5/Solution)
 - `pip` and jupyter notebooks and modules: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/8%20Python_Modules%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Modules.slides.html#/)
-  - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw6/Hw6.pdf), sol
+  - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw6/Hw6.pdf), part 2 pdf, sol
 #### Intermediate
 - `NumPy` Introduction: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/9%20Python_Numpy%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Numpy.slides.html)
-  - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw7/Hw7.pdf), sol
+  - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw7/Hw7.pdf), part 2 pdf, sol
 - `Matplotlib` Introduction: pdf, html
-  - Homework pdf, sol
+  - Homework pdf, part 2 pdf, sol
 - Numerical Analysis: pdf, html
-  - Homework pdf, sol
+  - Homework pdf, part 2 pdf, sol
 - `SciPy` Introduction: pdf, html
-  - Homework pdf, sol
+  - Homework pdf, part 2 pdf, sol
 - Statistical Tools: pdf, html
-  - Homework pdf, sol
+  - Homework pdf, part 2 pdf, sol
 - Monte Carlo Methods: pdf, html
-  - Homework pdf, sol
+  - Homework pdf, part 2 pdf, sol
 - Physical System Simulations: pdf, html
 
 ## Some links of interest
