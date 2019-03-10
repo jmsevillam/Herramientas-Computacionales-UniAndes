@@ -30,7 +30,7 @@ Here you can find presentations, codes and additional material for the course.
 - `pip` and jupyter notebooks and modules: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/8%20Python_Modules%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Modules.slides.html#/)
   - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw6/Hw6.pdf), sol
 #### Intermediate
-- `NumPy` Introduction: pdf, html
+- `NumPy` Introduction: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/9%20Python_Numpy%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Numpy.slides.html)
   - Homework pdf, sol
 - `Matplotlib` Introduction: pdf, html
   - Homework pdf, sol
