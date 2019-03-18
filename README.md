@@ -33,7 +33,7 @@ Here you can find presentations, codes and additional material for the course.
 - `NumPy` Introduction: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/9%20Python_Numpy%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Numpy.slides.html)
   - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw7/Hw7.pdf), part 2 pdf, sol
 - `Matplotlib` Introduction: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/10%20Python_Matplotlib%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Matplotlib.slides.html)
-  - Homework pdf, part 2 pdf, sol
+  - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw8/Hw8.pdf), part 2 pdf, sol
 - Numerical Analysis: pdf, html
   - Homework pdf, part 2 pdf, sol
 - `SciPy` Introduction: pdf, html
