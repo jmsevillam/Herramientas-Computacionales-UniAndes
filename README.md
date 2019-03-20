@@ -55,7 +55,7 @@ The repository for all the groups of the course can be found [Link](https://gith
 - [`Matplotlib`](https://www.matplotlib.org/)
 - [`SciPy`](https://www.scipy.org/)
 - [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/)
-  - Markdown: [link1](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), [link2](https://www.markdownguide.org/basic-syntax/)
+  - Markdown: [link1](https://guides.github.com/features/mastering-markdown/). [link2](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), [link3](https://www.markdownguide.org/basic-syntax/)
 ## For further Information
 
 contact: ` j.sevillam@uniandes.edu.co `
