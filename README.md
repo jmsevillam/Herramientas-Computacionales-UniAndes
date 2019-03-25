@@ -28,12 +28,12 @@ Here you can find presentations, codes and additional material for the course.
 - Object Oriented Programming: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/7%20Python_Classes%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Classes.slides.html) - Examples [folder](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/tree/master/examples/Classes)
   - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw5/Hw5.pdf), [sol](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/tree/master/Homework/Hw5/Solution)
 - `pip` and jupyter notebooks and modules: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/8%20Python_Modules%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Modules.slides.html#/)
-  - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw6/Hw6.pdf), part 2 [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw6/Hw6b.pdf), sol
+  - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw6/Hw6.pdf), part 2 [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw6/Hw6b.pdf), sol: [folder](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/tree/master/Homework/Hw7/Solution), [notebook](https://jmsevillam.github.io/Homeworks/Hw7.html)
 #### Intermediate
 - `NumPy` Introduction: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/9%20Python_Numpy%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Numpy.slides.html)
   - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw7/Hw7.pdf), part 2 pdf, sol
 - `Matplotlib` Introduction: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/10%20Python_Matplotlib%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Matplotlib.slides.html)
-  - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw8/Hw8.pdf), part 2 pdf, sol
+  - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw8/Hw8.pdf), part 2 [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw7/Hw7b.pdf), sol
 - Numerical Analysis: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/11%20Python_Numerical%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Numerical.slides.html)
   - Homework pdf, part 2 pdf, sol
 - `SciPy` Introduction: pdf, html
