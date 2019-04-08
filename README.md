@@ -36,7 +36,7 @@ Here you can find presentations, codes and additional material for the course.
   - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw8/Hw8.pdf), part 2 pdf, sol
 - Numerical Analysis: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/11%20Python_Numerical%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Numerical.slides.html)
   - Homework pdf, part 2 pdf, sol
-- `SciPy` Introduction: pdf, html
+- `SciPy` Introduction: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/12%20Python_Scipy%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Scipy.slides.html)
   - Homework pdf, part 2 pdf, sol
 - Statistical Tools: pdf, html
   - Homework pdf, part 2 pdf, sol
