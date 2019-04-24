@@ -37,9 +37,9 @@ Here you can find presentations, codes and additional material for the course.
 - Numerical Analysis: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/11%20Python_Numerical%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Numerical.slides.html)
   - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw9/Hw9.pdf), part 2 pdf, sol
 - `SciPy` Introduction: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/12%20Python_Scipy%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Scipy.slides.html)
-  - Homework pdf, part 2 pdf, sol
+  - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw10/Hw10.pdf), part 2 [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw10/Hw10b.pdf), sol
 - Statistical Tools: [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Slides/13%20Python_Stats%20slides.pdf), [html](https://jmsevillam.github.io/slides/Python_Stats.slides.html#/)
-  - Homework pdf, part 2 pdf, sol
+  - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw11/Hw11.pdf), part 2 pdf, sol
 - Monte Carlo Methods: pdf, html
   - Homework pdf, part 2 pdf, sol
 - Physical System Simulations: pdf, html
