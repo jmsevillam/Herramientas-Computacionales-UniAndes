@@ -42,7 +42,6 @@ Here you can find presentations, codes and additional material for the course.
   - Homework [pdf](https://github.com/jmsevillam/Herramientas-Computacionales-UniAndes/blob/master/Homework/Hw11/Hw11.pdf), part 2 pdf, [sol](https://jmsevillam.github.io/Homeworks/Hw11.html)
 - Monte Carlo Methods: pdf, html
   - Homework pdf, part 2 pdf, [sol](https://jmsevillam.github.io/Homeworks/Hw12.html)
-- Physical System Simulations: pdf, html
 
 ## Some links of interest
 The videos can be found on this [Link](https://www.youtube.com/playlist?list=PLHQtzvthdVM_MGC9dPFKe4hPAwBd_7RJ3)
